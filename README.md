@@ -40,7 +40,7 @@ Repozytorium zawiera praktyczne laboratoria sieciowe przygotowane w ramach nauki
 - VLAN i adresacja IP  
 - Diagnostyka sieci  
 
-### 🛠️ Technologie
+###  Technologie
 - Cisco Packet Tracer  
 - Protokoły sieciowe  
 
