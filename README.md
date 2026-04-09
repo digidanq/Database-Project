@@ -1,74 +1,85 @@
-# Database Project 
+# Database Project / Projekt bazy danych / Проєкт бази даних
 
 ---
 
 ## EN
 
-###  Description
-This repository contains a database design and implementation project.
+### Description
+This project contains the design and implementation of a relational database created as part of a university course.
 
-###  Features
+### Features
 - Database schema design  
-- SQL queries (SELECT, INSERT, UPDATE, DELETE)  
-- Data relationships  
-- Data validation  
+- Tables and relationships  
+- SQL queries (CRUD operations)  
+- Data integrity constraints  
 
-###  Technologies
-- MSSQL 
-- T-SQL
+### Technologies
+- Database: Microsoft SQL Server (MSSQL)
+- Query Language: T-SQL 
 
-###  How to run
-1. Import schema  
-2. Run SQL scripts  
-3. Connect via DBMS  
+### How to run
+1. Import the SQL file into your database system  
+2. Execute the scripts  
+3. Run queries to test functionality  
 
-###  Author
-digidanq
+### Notes
+The project demonstrates fundamental database concepts and query operations.
+
+### Author
+digidanq 
 
 ---
 
 ## PL
 
-###  Opis
-Projekt zawiera projekt oraz implementację bazy danych.
+### Opis
+Projekt bazy danych wykonany w ramach studiów.
 
-###  Funkcjonalności
-- Projektowanie schematu  
+### Funkcjonalności
+- Projekt schematu  
+- Tabele i relacje  
 - Zapytania SQL  
-- Relacje między tabelami  
+- Spójność danych  
 
-###  Technologie
-- MSSQL 
-- T-SQL
+### Technologie
+- Baza danych: Microsoft SQL Server (MSSQL)
+- Język zapytań: T-SQL 
 
-###  Uruchomienie
-1. Zaimportuj schemat  
-2. Uruchom zapytania SQL  
-3. Połącz się z bazą  
+### Uruchomienie
+1. Zaimportuj plik SQL  
+2. Uruchom skrypty  
+3. Testuj zapytania  
 
-###  Autor
-digidanq
+### Uwagi
+Projekt edukacyjny pokazujący podstawy baz danych.
+
+### Autor
+digidanq 
 
 ---
 
 ## UA
 
-###  Опис
-Репозиторій містить проєктування та реалізацію бази даних.
+### Опис
+Проєкт бази даних, створений у рамках навчання.
 
-###  Можливості
-- Проєктування БД  
+### Можливості
+- Схема бази даних  
+- Таблиці та зв’язки  
 - SQL-запити  
-- Робота з даними  
+- Цілісність даних  
 
-###  Технології
-- MSSQL 
-- T-SQL
+### Технології
+- База даних: Microsoft SQL Server (MSSQL)
+- Мова запитів: T-SQL 
 
-###  Запуск
-1. Імпортувати схему  
-2. Виконати SQL-скрипти  
-3. Підключитися до БД  
+### Запуск
+1. Імпортувати SQL-файл  
+2. Виконати скрипти  
+3. Перевірити запити  
 
-###  Автор
-digidanq  
+### Примітки
+Навчальний проєкт з баз даних.
+
+### Автор
+digidanq 
